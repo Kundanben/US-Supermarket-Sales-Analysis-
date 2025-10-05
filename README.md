@@ -78,4 +78,4 @@ Plan promotions for seasonal spikes
 Target West & East regions for growth
 
 Optimize discounts and shipping strategies to improve profitability
-link of  analysis : https://github.com/Kundanben/US-Supermarket-Sales-Analysis-.git.
+link of  analysis : https://github.com/Kundanben/US-Supermarket-Sales-Analysis-.git
